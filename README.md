@@ -1,8 +1,9 @@
 # pendulum-simulation
-This project is my, rather casual, attempt at simulating the motion of the ideal pendulum.
+This project is my, rather casual, attempt at simulating the motion of an ideal pendulum.
 It utlizes VPython, a 3D graphics module for Python.
 
 To compute the motion, the following parametric equations were used:
+
 x = L*sin(theta)
 y = -L*cos(theta)
 
